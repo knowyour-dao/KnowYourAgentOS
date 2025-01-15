@@ -42,7 +42,7 @@ npm run dev
 ## 🌈 Community & Support
 
 - Follow us on Twitter: [@know_your_agent](https://x.com/know_your_agent)
-- Join our Discord: [Coming Soon]
+- Join our Discord: [@knowyouragent][https://discord.gg/kYHZ3xK8]
 - Visit our website: [knowyouragent.xyz](https://knowyouragent.xyz)
 
 ## 🎯 Roadmap
