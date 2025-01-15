@@ -49,7 +49,7 @@ npm run dev
 
 - [x] Core Platform Launch
 - [x] Basic Agent Development Kit
-- [ ] Advanced Testing Framework
+- [ ] Agent Verification Framework
 - [ ] Community Governance Implementation
 - [ ] Token Integration
 - [ ] DAO Structure
